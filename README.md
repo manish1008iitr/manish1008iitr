@@ -1,6 +1,6 @@
 !--
 <p align="center">
-  <a href="https://jaykumaran.io">
+  <a href="">
     <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead">
   </a>
 </p>
@@ -27,12 +27,7 @@
 
 <!-- my-ticker -->    
 <!-- my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Divesh+Jadhwani;Welcome+to+my+profile!;Over+3+years+of+programming+experience+💻;Gen+AI+Engineer+🤖)](https://git.io/typing-svg)
 
-
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
