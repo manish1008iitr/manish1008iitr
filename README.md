@@ -1,8 +1,8 @@
 
 <p align="center">
-  <a href="">
+  <!-- <a href="">
     <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead">
-  </a>
+  </a> -->
 </p>
 
 
